@@ -4,4 +4,4 @@ gamma
 
 
 Un fichier texte nommé .gitignore
-permet d'éviter le suivi de version accidentel pousdqdsdqr les fichiers et chemins correspondant aux patterns spécifiés
+permet d'éviter le suivi de version accidentel pour les fichiers et chemins correspondant aux patterns spécifiés
