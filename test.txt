@@ -3,5 +3,6 @@ beta
 gamma
 
 
-Un fichier texte nommé .gitignore
-permet d'éviter le suivi de version accidentel pour les fichiers et chemins correspondant aux patterns spécifiés
+Candidates are growing ever more impatient: A survey of 1000 U.S. workers by Robert Half found that 57% 
+of job seekers lose interest if the post-interview 
+waiting period is too long, and 62% say 14 days or less is the limit of the tolerance.
