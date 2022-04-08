@@ -1,0 +1,23 @@
+class router:
+    '''Classe routeur'''
+    def __init__(self,model,version,ip):
+        ''' intialise values'''
+        self.model = model
+        self.version = version
+        self.ip = ip
+    def description(self):
+        desc=f'router model :   {self.model}\n' + f'router version :   {self.version}\n' + f'router ip :   {self.ip}\n'
+        return desc
+        
+class switch(router):
+    def getdesc(self):
+        desc=f'router model :   {self.model}\n' + f'router version :   {self.version}\n'   
+        return desc
+        
+router1 = router('juniper','12.5','1.1.1.1')
+
+print(router1.description())
+
+switch1 = switch('Cisco','22','2.2.2.2')
+
+print(switch1.description())
